@@ -5,6 +5,11 @@
   align: center;
 }
 
+.docs {
+  width: 20%;
+  height: 40%;
+}
+
 .color-primary {
   background-color: #034633 !important;
 }
