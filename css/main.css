@@ -1,6 +1,9 @@
 /*
  * Meu CSS */
 
+.project-header {
+  margin-top: 70px;
+}
 
 .docs {
   min-height: 50%;
