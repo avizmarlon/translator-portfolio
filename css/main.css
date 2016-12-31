@@ -1,13 +1,13 @@
 /*
  * Meu CSS */
 
-.center {
-  align: center;
-}
 
 .docs {
-  width: 20%;
-  height: 40%;
+  min-height: 50%;
+}
+
+.center {
+  align: center;
 }
 
 .color-primary {
