@@ -1,6 +1,25 @@
 /*
  * Meu CSS */
 
+.footer-fixed {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  border-radius: 10px;
+}
+
+.header-nav-bar {
+  padding-bottom: 5px;
+}
+
+.header-nav-bar-btn {
+  margin-top: 5px;
+}
+
+.float-right {
+  float: right;
+}
+
 .project-header {
   margin-top: 70px;
 }
@@ -14,13 +33,16 @@
 }
 
 .color-primary {
-  background-color: #034633 !important;
+  background-color: #003704 !important;
 }
 
 .color-secondary {
-  background-color: #002D21 !important;
+  background-color: #045409 !important;
 }
 
+.color-tertiary {
+  background-color: #339139 !important;
+}
 
 .aliased-font {
 	-webkit-font-smoothing: antialiased;
