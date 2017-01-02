@@ -1,13 +1,6 @@
 /*
  * Meu CSS */
 
-.center-pos {
-  position: absolute;
-  top: 0;
-  left: 50%;
-  right: 50%;
-}
-
 .footer-fixed {
   position: fixed;
   bottom: 0px;
